@@ -1,0 +1,10 @@
+Operatsion tizimlar fani
+C tilida fayllar bilan ishlash
+fopen, fclose, fseek va ftell funksiyalari
+Fayl hajmi baytlarda aniqlanadi
+So'ng fayl oxiridan boshiga qarab o'qiladi
+Har bir belgi reverse.txt ga yoziladi
+Dastur fseek(fp, 0, SEEK_END) dan foydalanadi
+ftell joriy pozitsiyani qaytaradi
+12-variant, 3-masala
+Salom dunyo!
